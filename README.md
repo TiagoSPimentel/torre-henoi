@@ -1,12 +1,12 @@
-Jogo da Torre de Hanoi
+## Jogo da Torre de Hanoi
 
 
-- Descrição do Projeto:
+## Descrição do Projeto:
 
 Este projeto implementa o jogo clássico da Torre de Hanoi utilizando a estrutura de dados Pilha. O objetivo do jogo é mover discos de uma torre para outra, respeitando a regra de que um disco maior nunca pode ser colocado sobre um disco menor. O jogo termina quando todos os discos estão na torre de destino.
 
 
-- Estrutura de Pastas e Arquivos:
+## Estrutura de Pastas e Arquivos:
 
 
 pilha.h: Define a estrutura da pilha e as funções para manipulação da pilha (criar, destruir, empilhar, desempilhar, verificar o topo, etc.).
@@ -16,7 +16,7 @@ pilha.c: Implementa as funções definidas em pilha.h.
 torre.c: Contém a implementação do jogo, incluindo a lógica para movimentar os discos entre as torres, verificar a validade dos movimentos e exibir o estado do jogo.
 
 
-- Funcionalidades:
+## Funcionalidades:
   
 Criação de Pilha: As pilhas são criadas dinamicamente para armazenar os discos.
 
@@ -29,15 +29,14 @@ Exibição das Torres: Após cada movimento, o estado das torres é impresso, mo
 Finalização do Jogo: O jogo é concluído quando todos os discos estão na torre de destino. O número de movimentos realizados é então exibido.
 
 
-- Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
 
 
 Linguagem: C
 
 Estruturas de Dados: Pilha (implementada com ponteiros)
 
-
-- Como Executar
+## Como Executar
 
 
 1. Clone o repositório: git clone <url-do-repositorio>
