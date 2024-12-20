@@ -37,7 +37,7 @@ Linguagem: C
 Estruturas de Dados: Pilha (implementada com ponteiros)
 
 
--Como Executar
+- Como Executar
 
 
 1. Clone o repositório: git clone <url-do-repositorio>
@@ -48,5 +48,5 @@ Estruturas de Dados: Pilha (implementada com ponteiros)
 
 4. Execute o programa: ./torre
    
-Durante o jogo, insira o número de discos e as jogadas no formato origem,destino para mover os discos.
+Durante o jogo, insira o número de discos e as jogadas (origem,destino) para mover os discos.
 
